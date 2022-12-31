@@ -1,5 +1,5 @@
 var CACHE_NAME = "spectrum-cache-v1";
-var urlsToCache = ["/mousetrail-space/", "/mousetrail-space/index.html"];
+var urlsToCache = ["/mousetrail/", "/mousetrail/index.html"];
 
 self.addEventListener("install", function (event) {
 	event.waitUntil(

@@ -14,7 +14,7 @@
 
 <br>
 
-<a href="https://emjose.github.io/mousetrail-space/">![Spectrum Mouse Trail](Assets/preview-024-spectrum-mousetrail.png)</a>
+<a href="https://emjose.github.io/mousetrail/">![Spectrum Mouse Trail](Assets/preview-024-spectrum-mousetrail.png)</a>
 
 #
 
@@ -55,7 +55,7 @@
 #### 1. Git clone and cd into the repo folder:
 
 ```console
-git clone git@github.com:emjose/mousetrail-space.git && cd mousetrail-space
+git clone git@github.com:emjose/mousetrail.git && cd mousetrail
 ```
 
 #### 2. Run the command:
@@ -72,13 +72,13 @@ open index.html
 
 <p id="live-site"><p>
 
-<a href="https://emjose.github.io/mousetrail-space/">![Live Site](https://res.cloudinary.com/dn1e07eul/image/upload/v1659389947/Readme%20Headers/inter-live-site_ngkqcf.png)</a>
+<a href="https://emjose.github.io/mousetrail/">![Live Site](https://res.cloudinary.com/dn1e07eul/image/upload/v1659389947/Readme%20Headers/inter-live-site_ngkqcf.png)</a>
 
-<a href="https://emjose.github.io/mousetrail-space/">![Live Site](Assets/024-spectrum.gif)</a>
+<a href="https://emjose.github.io/mousetrail/">![Live Site](Assets/024-spectrum.gif)</a>
 
-• **[Spectrum Mouse Trail](https://emjose.github.io/mousetrail-space/)** is best viewed on a desktop or laptop computer browser.
+• **[Spectrum Mouse Trail](https://emjose.github.io/mousetrail/)** is best viewed on a desktop or laptop computer browser.
 
-• **[Spectrum Mouse Trail](https://emjose.github.io/mousetrail-space/)** is a [progressive web app](https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps).
+• **[Spectrum Mouse Trail](https://emjose.github.io/mousetrail/)** is a [progressive web app](https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps).
 
 <br>
 

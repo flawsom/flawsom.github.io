@@ -99,8 +99,8 @@ function swRegistration() {
 	const heart = ["font-size: 20px", "padding: 12px", "margin: 4px 0 4px 4px", "color: rgba(238,58,136,1)"].join(";");
 	if ("serviceWorker" in navigator) {
 		navigator.serviceWorker
-			.register("/mousetrail-space/sw.js", {
-				scope: "/mousetrail-space/",
+			.register("/mousetrail/sw.js", {
+				scope: "/mousetrail/",
 			})
 			.then(function (registration) {
 				console.log("%c❤️", heart);
@@ -136,7 +136,7 @@ function consoleText() {
 	console.log("%cPortfolio%chttps://bit.ly/3Z2RN0z", gradient, styles2);
 	console.log("%cInstagram%chttps://bit.ly/3WTRJyC", gradient, styles2);
 	console.log("%cGithub   %chttps://bit.ly/3GFA1tv", gradient, styles2);
-	console.log("%cThe README   %chttps://bit.ly/3S9AQgS", gradient, styles2);
+	console.log("%cThe README   %chttps://bit.ly/3VCbM3i", gradient, styles2);
 	console.log("%cHave a wonderful day!", styles2);
 }
 

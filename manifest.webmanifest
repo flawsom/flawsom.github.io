@@ -34,7 +34,7 @@
 	"display": "standalone",
 	"lang": "en-US",
 	"id": "https://flawsom.github.io",
-	"start_url": "/mousetrail-space/",
-	"scope": "/mousetrail-space/",
+	"start_url": "/mousetrail/",
+	"scope": "/mousetrail/",
 	"description": "A mousetrail animation app."
 }
