@@ -44,7 +44,7 @@ body {
   text-shadow: 2px 2px 4px 0 rgba(27, 26, 26, 0.5);
   user-select: none;
 }
-  header {
+header {
 	width: 95%;
 	height: 10vh;
 	margin: auto;
@@ -53,39 +53,39 @@ body {
 	align-items: center;
 	position: fixed;
 	z-index: 2;
-  }
-  #sound {
+}
+#sound {
 	padding: 7px;
 	background-color: #1b1b1b;
 	border-radius: 5px;
 	display: flex;
 	align-items: center;
 	color: #fff;
-  }
-  .sound-cloud {
+}
+.sound-cloud {
 	font-size: 1.2rem;
 	margin: 7px;
 	color: #f50057;
-  }
-  .on-off {
+}
+.on-off {
 	cursor: pointer;
 	margin-left: 5px;
-  }
-  #off {
+}
+#off {
 	color: #f50057;
-  }
-  #on {
+}
+#on {
 	display: none;
 	color: #08fdd8;
   }
-  .btns-container .fas {
+.btns-container .fas {
 	font-size: 2rem;
 	padding: 10px;
 	background-color: #181818;
 	color: #fff;
 	cursor: pointer;
-  }
-  .btns-container .fas:nth-child(2) {
+}
+.btns-container .fas:nth-child(2) {
 	display: none;
   }
 
